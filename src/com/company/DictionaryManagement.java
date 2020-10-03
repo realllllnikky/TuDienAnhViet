@@ -46,4 +46,17 @@ public class DictionaryManagement {
             }
         }
     }
+
+    public void addNewWord() {
+
+    }
+
+    public void editDictionary() {
+
+    }
+
+    public void deleteWord() {
+
+    }
+
 }
