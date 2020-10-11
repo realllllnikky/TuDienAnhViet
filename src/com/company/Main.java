@@ -1,6 +1,9 @@
 package com.company;
 
+import javax.xml.crypto.dsig.spec.XSLTTransformParameterSpec;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Scanner;
 
 public class Main {
 
@@ -8,6 +11,7 @@ public class Main {
         // write your code here
         Dictionary dic = new Dictionary();
         DictionaryCommandline dictionaryCommandline = new DictionaryCommandline();
+        dictionaryCommandline.dictionaryAdvanced(dic);
 //      dictionaryCommandline.dictionaryBasic(dic);
 //        Scanner in = new Scanner(System.in);
 //        int n;
@@ -23,6 +27,5 @@ public class Main {
 //
 //            }
 //        }
-        dictionaryCommandline.dictionaryAdvanced(dic);
     }
 }

@@ -1,8 +1,11 @@
-hello	xin chao
-house	ngoi nha
-dog	con cho
-cat	con meo
-mother	me
-father	bo
-tree	cay
+hamster	chuot hamster
+hand	ban tay
 get up	thuc day
+purple	mau tim
+tiger	con ho
+penguin	chim canh cut
+boyfriend	ban trai
+honesty	chan thanh
+notebook	cuon vo
+pen	cai but
+butter	bo
