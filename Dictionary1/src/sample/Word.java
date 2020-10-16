@@ -1,4 +1,4 @@
-package com.company;
+package sample;
 
 public class Word {
     private String word_target;
@@ -25,4 +25,3 @@ public class Word {
         this.word_explain = word_explain;
     }
 }
-

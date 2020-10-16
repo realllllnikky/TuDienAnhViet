@@ -1,5 +1,8 @@
-package com.company;
+package sample;
 
+import javafx.fxml.FXML;
+
+import java.awt.*;
 import java.io.*;
 import java.nio.file.Paths;
 import java.util.Scanner;
@@ -113,3 +116,4 @@ public class DictionaryManagement {
         printWriter.close();
     }
 }
+
